@@ -12,7 +12,7 @@ class Character:
 		__init__ : initalize all the character variables
 		attack_phase : character is on defense character class
 			 that is called as an arguement is the attacker,
-			 Character1.take_damage(Character2)
+			 Character1.attack_phase(Character2)
 		heal_self : allows character to regenerate HP
 		__str__ : default string when using:
 			 print(character)
