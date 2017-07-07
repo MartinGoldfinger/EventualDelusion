@@ -11,3 +11,6 @@ whichare the brains behind the buttons in the main window
 main.py - builds the main window and displays all the images and frames
 and has the order of operations forall the function calls that are 
 stored in the Character class
+
+Capture.PNG - Screenshot of the window
+
